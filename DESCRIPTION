@@ -1,0 +1,12 @@
+Package: rMousier
+Title: Extends rMouse functionality slightly
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Brad",
+           family = "Hill",
+           role = c("aut", "cre"),
+           email = "bradhill119@gmail.com")
+Description: Extends functionality of rMouse to include use of additional special keys.
+License: What license it uses
+Encoding: UTF-8
+LazyData: true

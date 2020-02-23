@@ -12,7 +12,7 @@ extra_specialKey(key = "ESC", failSafe = TRUE)
 \item{failSafe}{Logical flag to allow for emergency stops. Default is TRUE}
 }
 \description{
-Send special keys, identical to \code{\link{rMouse::specialKey}} but with "CTRL" and "ALT" added
+Send special keys, identical to \code{\link{rMouse::specialKey()}} but with "CTRL" and "ALT" added
 }
 \examples{
 extra_specialKey("ALT")

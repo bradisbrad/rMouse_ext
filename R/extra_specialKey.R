@@ -1,6 +1,6 @@
 #' Send special key input
 #'
-#' Send special keys, identical to \code{\link{rMouse::specialKey}} but with "CTRL" and "ALT" added
+#' Send special keys, identical to \code{\link{rMouse::specialKey()}} but with "CTRL" and "ALT" added
 #'
 #' @param key "ESC", "ENTER", "TAB", "CTRL", or "ALT" as string
 #' @param failSafe Logical flag to allow for emergency stops. Default is TRUE

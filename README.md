@@ -13,4 +13,4 @@ An extension for the excellent rMouse package. This package extends the function
   
 Yep, this package has basically one and a half functions. It's all I needed. Feel free to send any suggestions my way.  
   
-Dejan, if you're out there, you can just canabalize this into `rMouse`. I'd be fine with that. 
+Dejan, if you're out there, you can just cannibalize this into `rMouse`. I'd be fine with that. 

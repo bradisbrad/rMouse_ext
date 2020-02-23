@@ -10,3 +10,4 @@ Description: Extends functionality of rMouse to include use of additional specia
 License: What license it uses
 Encoding: UTF-8
 LazyData: true
+RoxygenNote: 7.0.2

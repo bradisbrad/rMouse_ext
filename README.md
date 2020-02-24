@@ -9,6 +9,14 @@ An extension for the excellent rMouse package. This package extends the function
 - `hold_specialKey()` holds `CTRL` or `ALT` until `release_specialKey()` is called with the same key  
 - `release_specialKey()` releases `CTRL` or `ALT` after being called by `hold_specialKey()`
   
+## Installation
+  
+Some users (namely me) have experienced issues with installing through `devtools::install_github()`. I suspect the reason for this is, at least on my system, I have both 32 and 64 bit versions of R installed. This has worked for me, though, so if you're having issues installing this package, give this a shot:  
+  
+```{r}
+devtools::install_github('bradisbrad/rMousier', INSTALL_opts=c("--no-multiarch"))
+```
+  
 ## Suggestions?   
   
 Yep, this package has basically one and a half functions. It's all I needed. Feel free to send any suggestions my way.  

@@ -5,6 +5,7 @@
 #' @param key "CTRL" or "ALT" as string
 #' @param failSafe Logical flag to allow for emergency stops. Default is TRUE
 #'
+#' @import rMouse
 #' @export
 #'
 #' @examples

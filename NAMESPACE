@@ -3,3 +3,4 @@
 export(extra_specialKey)
 export(hold_specialKey)
 export(release_specialKey)
+import(rMouse)
